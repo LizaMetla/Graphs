@@ -26,12 +26,12 @@
             </objects>
             <point key="canvasLocation" x="-532" y="29"/>
         </scene>
-        <!--Item-->
+        <!--Bar-->
         <scene sceneID="s6Q-1a-cq3">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="5Ci-8p-1Nm" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController id="BzJ-GS-IHY" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="8r8-fP-fou"/>
+                    <tabBarItem key="tabBarItem" title="Bar" id="8r8-fP-fou"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="xBk-Kh-npr">
                         <rect key="frame" x="0.0" y="44" width="414" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -59,12 +59,12 @@
             </objects>
             <point key="canvasLocation" x="-1417" y="1460"/>
         </scene>
-        <!--Item-->
+        <!--Line-->
         <scene sceneID="0j8-Ya-QZC">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="R0x-JY-npg" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController id="vGm-TB-hSM" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="8k8-kK-SNj"/>
+                    <tabBarItem key="tabBarItem" title="Line" id="8k8-kK-SNj"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="CiT-PJ-Drn">
                         <rect key="frame" x="0.0" y="44" width="414" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
@@ -76,12 +76,12 @@
             </objects>
             <point key="canvasLocation" x="-533" y="725"/>
         </scene>
-        <!--Item-->
+        <!--Donut-->
         <scene sceneID="2Vf-ZU-NW8">
             <objects>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="ecZ-qT-o5v" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
                 <navigationController id="PvN-BZ-kSt" sceneMemberID="viewController">
-                    <tabBarItem key="tabBarItem" title="Item" id="3Ge-dE-I6g"/>
+                    <tabBarItem key="tabBarItem" title="Donut" id="3Ge-dE-I6g"/>
                     <navigationBar key="navigationBar" contentMode="scaleToFill" insetsLayoutMarginsFromSafeArea="NO" largeTitles="YES" id="nE4-3R-uzX">
                         <rect key="frame" x="0.0" y="44" width="414" height="96"/>
                         <autoresizingMask key="autoresizingMask"/>
