@@ -35,7 +35,7 @@ class ViewController: UIViewController, ChartViewDelegate {
         //data entries (ввод данных)
         var entries = [BarChartDataEntry]()
         
-        for x in 0..<10 {
+        for x in 0..<15 {
 
             entries.append(BarChartDataEntry(x: Double(x),
                                              y: Double(x)))
@@ -43,6 +43,10 @@ class ViewController: UIViewController, ChartViewDelegate {
         
         //data holder
         let set = BarChartDataSet(entries: entries)
+        
+        
+        set.colors = ChartColorTemplates.joyful()
+        
         let data = BarChartData(dataSet: set)
         
         barChart.data = data
